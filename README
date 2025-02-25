@@ -1,0 +1,1 @@
+## This repository contains the shiny app code for the gtfsforge app, as well as the .rds files for sample networks. the code for generating these sample networks from the STM gtfs is also available here.
